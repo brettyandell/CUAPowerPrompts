@@ -1,4 +1,6 @@
 ## CUAPowerPrompts
+<img width="902" height="1014" alt="image" src="https://github.com/user-attachments/assets/cb456aa5-9481-4b89-9867-75f66ee12917" />
+
 
 ### CuaPowerAgentPrompt 
 
