@@ -8,11 +8,11 @@ Execution Policy: Detailed steps with checks and retries to ensure robust automa
 Progress Reporting: Concise status updates during execution.
 Output Requirements: Clear specifications for success and error outputs.
 
-## Explore the Template: Open the repository in your preferred code editor and familiarize yourself with the structure.
+Explore the Template: Open the repository in your preferred code editor and familiarize yourself with the structure.
 
-## Customize the Placeholders: Replace the placeholders with your specific details to tailor the template to your needs.
+Customize the Placeholders: Replace the placeholders with your specific details to tailor the template to your needs.
 
-## Deploy and Test: Deploy the template and test it with various scenarios to ensure it meets your requirements.
+Deploy and Test: Deploy the template and test it with various scenarios to ensure it meets your requirements.
 
 ## 🏗️ Template Structure
 
