@@ -1,6 +1,6 @@
-# 📋 System Prompt Template Framework
+# Agent Prompt
 
-This is a **reusable template framework** you can adapt for your own use. Here's the structure:
+This is a **reusable prompt template** you can adapt for your own use as a system prompt for an agent that calls a CUA tool.:
 
 ---
 
