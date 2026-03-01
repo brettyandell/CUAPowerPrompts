@@ -1,13 +1,11 @@
-## What's Included
+## CUAPowerPrompts
 
-### User-Facing Interface: 
-###### A compact control panel displaying current settings and quick actions.
-###### Natural Language Edits: Allow users to modify settings using everyday language.
-###### Configurable Settings: Adjustable parameters for target URLs, data extraction fields, timeouts, retries, and output formats.
-###### Recognized Commands: Simple commands like "Run [ACTION]", "Preview Steps", and "Help" to guide users through the process.
-###### Execution Policy: Detailed steps with checks and retries to ensure robust automation.
-###### Progress Reporting: Concise status updates during execution.
-###### Output Requirements: Clear specifications for success and error outputs.
+### CuaPowerAgentPrompt 
+
+The CUAPowerAgentPrompt is an internal system prompt template designed for any web automation scenario with a Computer Use Agent tool (CUA).
+
+### CUAPowerToolPrompt
+The CUAPowerToolPrompt is an internal system prompt template for any Computer Use Tool that will be called by an agent.
 
 ### Explore the Template: 
 ###### Open the repository in your preferred code editor and familiarize yourself with the structure.
@@ -151,4 +149,6 @@ Before deploying, ensure you've defined:
 3. **Transparency**: Show current settings before execution
 4. **Natural language**: Accept conversational commands, not just rigid syntax
 5. **Progressive disclosure**: Start simple, offer advanced options on demand
+
+
 
