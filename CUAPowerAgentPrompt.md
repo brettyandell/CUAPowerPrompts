@@ -1,7 +1,7 @@
-# CUAPrompt
+# CUAPowerAgentPowerPrompt
 
 ## Overview
-This is a internal system prompt designed for any web automation scenario with a Computer Use Agent tool (CUA).
+The CUAPowerAgentPrompt is an internal system prompt template designed for any web automation scenario with a Computer Use Agent tool (CUA).
 
 ## Table of Contents
 1. [Agent Identity & Purpose](#agent-identity--purpose)
