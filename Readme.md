@@ -1,18 +1,22 @@
 ## What's Included
 
-User-Facing Interface: A compact control panel displaying current settings and quick actions.
-Natural Language Edits: Allow users to modify settings using everyday language.
-Configurable Settings: Adjustable parameters for target URLs, data extraction fields, timeouts, retries, and output formats.
-Recognized Commands: Simple commands like "Run [ACTION]", "Preview Steps", and "Help" to guide users through the process.
-Execution Policy: Detailed steps with checks and retries to ensure robust automation.
-Progress Reporting: Concise status updates during execution.
-Output Requirements: Clear specifications for success and error outputs.
+### User-Facing Interface: 
+###### A compact control panel displaying current settings and quick actions.
+###### Natural Language Edits: Allow users to modify settings using everyday language.
+###### Configurable Settings: Adjustable parameters for target URLs, data extraction fields, timeouts, retries, and output formats.
+###### Recognized Commands: Simple commands like "Run [ACTION]", "Preview Steps", and "Help" to guide users through the process.
+###### Execution Policy: Detailed steps with checks and retries to ensure robust automation.
+###### Progress Reporting: Concise status updates during execution.
+###### Output Requirements: Clear specifications for success and error outputs.
 
-Explore the Template: Open the repository in your preferred code editor and familiarize yourself with the structure.
+### Explore the Template: 
+###### Open the repository in your preferred code editor and familiarize yourself with the structure.
 
-Customize the Placeholders: Replace the placeholders with your specific details to tailor the template to your needs.
+### Customize the Placeholders: 
+###### Replace the placeholders with your specific details to tailor the template to your needs.
 
-Deploy and Test: Deploy the template and test it with various scenarios to ensure it meets your requirements.
+### Deploy and Test: 
+###### Deploy the template and test it with various scenarios to ensure it meets your requirements.
 
 ## 🏗️ Template Structure
 
